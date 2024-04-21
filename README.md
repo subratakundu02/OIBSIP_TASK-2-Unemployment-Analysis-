@@ -7,7 +7,7 @@ increase in the unemployment rate during Covid-19, so analyzing the unemployment
 can be a good data science project. 
 
 Tools used:
-Python language
-Pandas
-Numpy
+Python language,
+Pandas,
+Numpy,
 matplotlib Library
